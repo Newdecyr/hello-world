@@ -1,2 +1,3 @@
 # hello-world
-Meu primeiro repositório.
+Modificado.
+Este está sendo o meu primeiro contato com o github, espero ter  sucessoo...
